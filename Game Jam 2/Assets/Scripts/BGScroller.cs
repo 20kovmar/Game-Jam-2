@@ -17,7 +17,7 @@ public class BGScroller : MonoBehaviour
     void Update()
     {
         transform.Translate((new Vector3(-1,0,0))*speed*Time.deltaTime);
-        if(transform.position.x < -13.665)
+        if(transform.position.x < -23.4)
             transform.position = startPos;
         
 
