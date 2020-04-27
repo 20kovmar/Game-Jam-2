@@ -38,12 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Instruction menu
-    uniqueID: 1537285237
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Arrows
+  - name: Asteroid
     uniqueID: 3793826841
+    locked: 0
+  - name: New Layer
+    uniqueID: 1145864993
     locked: 0
